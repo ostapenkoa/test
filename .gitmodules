@@ -1,0 +1,3 @@
+[submodule "librarian"]
+	path = librarian
+	url = http://github.come/smartvid-io/librarian
